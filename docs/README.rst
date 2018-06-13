@@ -25,7 +25,7 @@ Simply replace the last bit with the name you want and send the whole thing.
 
 ::
 
-    $curl -fsSL https://raw.githubusercontent.com/caianrais/i-love-u/master/src/i-love-u.py | python - Sabrina
+    $ curl -fsSL https://raw.githubusercontent.com/caianrais/i-love-u/master/src/i-love-u.py | python - Sabrina
 
 
 Motivation
