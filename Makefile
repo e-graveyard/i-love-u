@@ -1,2 +1,2 @@
 run:
-	python3 src/i-love-u.py "Sabrina"
+	python src/i-love-u.py "Sabrina"
